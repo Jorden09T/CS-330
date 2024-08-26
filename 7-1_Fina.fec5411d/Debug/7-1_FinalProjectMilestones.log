@@ -1,0 +1,15 @@
+﻿  SceneManager.cpp
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(225,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(701,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(701,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(701,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(715,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(715,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(715,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(729,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(729,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(729,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(743,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(743,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(743,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\jojo2\Downloads\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
